@@ -1,2 +1,3 @@
 # Java-project
-Goal was to create 2048 game in Java
+Implementation of 2048 game in Java.
+Available with user interface and leaderboards.
